@@ -1,0 +1,3 @@
+- Créer les sprites
+- Peaufiner la génération pour ajouter une structure plus plaisante au niveau (optionnel)
+- Ajouter le changement de formation en combat (optionnel)

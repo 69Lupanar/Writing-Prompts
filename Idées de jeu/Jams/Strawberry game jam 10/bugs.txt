@@ -1,0 +1,1 @@
+- On a oublié de tuer les dinos qui perdent leur bonus de santé et ont leur PV tombés à 0. A corriger à la fin si on a le temps.
